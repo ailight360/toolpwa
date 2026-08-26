@@ -1,0 +1,5009 @@
+{
+  "servers": [
+    {
+      "id": 100001,
+      "name": "samftp.com",
+      "url": "https://samftp.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100002,
+      "name": "discoveryftp.net",
+      "url": "http://discoveryftp.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100003,
+      "name": "movies.discoveryftp.net",
+      "url": "http://movies.discoveryftp.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100004,
+      "name": "172.27.27.83",
+      "url": "http://172.27.27.83",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100005,
+      "name": "172.27.27.84",
+      "url": "http://172.27.27.84",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100006,
+      "name": "ftpbd.net",
+      "url": "http://ftpbd.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100007,
+      "name": "103.58.73.9",
+      "url": "http://103.58.73.9",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100008,
+      "name": "media.ftpbd.net",
+      "url": "http://media.ftpbd.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100009,
+      "name": "server1.ftpbd.net",
+      "url": "http://server1.ftpbd.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100010,
+      "name": "server4.ftpbd.net",
+      "url": "http://server4.ftpbd.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100011,
+      "name": "10.16.100.244",
+      "url": "http://10.16.100.244",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100012,
+      "name": "www.naturalbd.com",
+      "url": "http://www.naturalbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100013,
+      "name": "new.naturalbd.com",
+      "url": "http://new.naturalbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100014,
+      "name": "dhakamovie.com",
+      "url": "http://dhakamovie.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100015,
+      "name": "103.91.144.230",
+      "url": "http://103.91.144.230",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100016,
+      "name": "ctgmovies.com",
+      "url": "http://ctgmovies.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100017,
+      "name": "crazyctg.com",
+      "url": "http://crazyctg.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100018,
+      "name": "www.ctgflix.com",
+      "url": "http://www.ctgflix.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100019,
+      "name": "media.ctgfun.com",
+      "url": "http://media.ctgfun.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100020,
+      "name": "fs.evillagectg.com",
+      "url": "http://fs.evillagectg.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100021,
+      "name": "www.ctghall.com",
+      "url": "http://www.ctghall.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100022,
+      "name": "www.ctgstream.com",
+      "url": "http://www.ctgstream.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100023,
+      "name": "www.ctghub.com",
+      "url": "https://www.ctghub.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100024,
+      "name": "www.cinehub24.com",
+      "url": "http://www.cinehub24.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100025,
+      "name": "moviehaat.net",
+      "url": "http://moviehaat.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100026,
+      "name": "fs.ebox.live",
+      "url": "http://fs.ebox.live",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100027,
+      "name": "103.49.168.107",
+      "url": "http://103.49.168.107",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100028,
+      "name": "fileserver.ebox.live",
+      "url": "http://fileserver.ebox.live",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100029,
+      "name": "12.1.1.2",
+      "url": "http://12.1.1.2",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100030,
+      "name": "12.1.1.3 / flix",
+      "url": "http://12.1.1.3/flix",
+      "category": "Media",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100031,
+      "name": "pollyflix.com",
+      "url": "http://pollyflix.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100032,
+      "name": "fs.amrbd.com",
+      "url": "http://fs.amrbd.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100033,
+      "name": "fs2.amrbd.com",
+      "url": "http://fs2.amrbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100034,
+      "name": "103.102.253.250",
+      "url": "http://103.102.253.250",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100035,
+      "name": "citycloudbd.com",
+      "url": "http://citycloudbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100036,
+      "name": "103.3.226.208",
+      "url": "http://103.3.226.208",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100037,
+      "name": "www.bossbd.net",
+      "url": "http://www.bossbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100038,
+      "name": "bossbd.live",
+      "url": "http://bossbd.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100039,
+      "name": "cdn.bossbd.net",
+      "url": "http://cdn.bossbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100040,
+      "name": "cdn1.bossbd.net",
+      "url": "http://cdn1.bossbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100041,
+      "name": "cdn2.bossbd.net",
+      "url": "http://cdn2.bossbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100042,
+      "name": "mymoviebazar.net",
+      "url": "http://mymoviebazar.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100043,
+      "name": "www.alphabroadway.com",
+      "url": "http://www.alphabroadway.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100044,
+      "name": "ftp.alphamediazone.com",
+      "url": "http://ftp.alphamediazone.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100045,
+      "name": "bdplex.net",
+      "url": "http://bdplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100046,
+      "name": "103.200.36.242",
+      "url": "http://103.200.36.242",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100047,
+      "name": "www.timepassbd.live",
+      "url": "http://www.timepassbd.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100048,
+      "name": "ftp.timepassbd.live",
+      "url": "http://ftp.timepassbd.live",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100049,
+      "name": "www.freedownloadbd.com",
+      "url": "http://www.freedownloadbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100050,
+      "name": "15.1.1.1",
+      "url": "http://15.1.1.1",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100051,
+      "name": "circleftp.net",
+      "url": "http://circleftp.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100052,
+      "name": "ftp2.circleftp.net",
+      "url": "http://ftp2.circleftp.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100053,
+      "name": "hd.circleftp.net",
+      "url": "http://hd.circleftp.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100054,
+      "name": "www.mazedanetworks.net",
+      "url": "https://www.mazedanetworks.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100055,
+      "name": "172.22.22.101",
+      "url": "http://172.22.22.101",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100056,
+      "name": "ftpweb.mazedanetworks.net",
+      "url": "http://ftpweb.mazedanetworks.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100057,
+      "name": "ihub.live",
+      "url": "http://ihub.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100058,
+      "name": "www.nagordola.com.bd",
+      "url": "http://www.nagordola.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100059,
+      "name": "cinemabazar.net",
+      "url": "http://cinemabazar.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100060,
+      "name": "103.81.104.98",
+      "url": "http://103.81.104.98",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100061,
+      "name": "cinemabazar.net / DATA",
+      "url": "http://cinemabazar.net/DATA/NAS1",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100062,
+      "name": "infolinkbd.com",
+      "url": "https://infolinkbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100063,
+      "name": "mybdplex.com",
+      "url": "http://mybdplex.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100064,
+      "name": "103.103.239.66",
+      "url": "http://103.103.239.66",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100065,
+      "name": "abcflixbd.com",
+      "url": "http://abcflixbd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100066,
+      "name": "mathanosto.top",
+      "url": "http://mathanosto.top",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100067,
+      "name": "asianftp.com",
+      "url": "http://asianftp.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100068,
+      "name": "mojaloss.net",
+      "url": "https://mojaloss.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100069,
+      "name": "www.elaach.com",
+      "url": "http://www.elaach.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100070,
+      "name": "dhakaftp.com",
+      "url": "http://dhakaftp.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100071,
+      "name": "103.76.196.90",
+      "url": "http://103.76.196.90",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100072,
+      "name": "dnetdrive.com",
+      "url": "https://dnetdrive.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100073,
+      "name": "vdomela.com",
+      "url": "http://vdomela.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100074,
+      "name": "sunplex.net",
+      "url": "https://sunplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100075,
+      "name": "www.moviemela.live",
+      "url": "http://www.moviemela.live",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100076,
+      "name": "fz.moviemela.live:8096",
+      "url": "http://fz.moviemela.live:8096",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100077,
+      "name": "fs.moviemela.live:8096",
+      "url": "http://fs.moviemela.live:8096",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100078,
+      "name": "movieboxbd.com",
+      "url": "http://movieboxbd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100079,
+      "name": "patalpuri.com",
+      "url": "http://patalpuri.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100080,
+      "name": "www.netathomebd.com",
+      "url": "https://www.netathomebd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100081,
+      "name": "funtimebd.com",
+      "url": "http://funtimebd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100082,
+      "name": "funtime.com.bd",
+      "url": "http://funtime.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100083,
+      "name": "103.109.56.114",
+      "url": "http://103.109.56.114",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100084,
+      "name": "103.109.56.115",
+      "url": "http://103.109.56.115",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100085,
+      "name": "www.rangdhanu.live",
+      "url": "https://www.rangdhanu.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100086,
+      "name": "fs.rangdhanu.live",
+      "url": "http://fs.rangdhanu.live",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100087,
+      "name": "emby.rangdhanu.live",
+      "url": "http://emby.rangdhanu.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100088,
+      "name": "www.showtimebd.com",
+      "url": "http://www.showtimebd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100089,
+      "name": "digbazi.net",
+      "url": "http://digbazi.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100090,
+      "name": "media.dfnbd.net",
+      "url": "http://media.dfnbd.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100091,
+      "name": "www.dotinternetbd.com",
+      "url": "http://www.dotinternetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100092,
+      "name": "dflix.live",
+      "url": "http://dflix.live",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100093,
+      "name": "fs1.dflix.live",
+      "url": "http://fs1.dflix.live",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100094,
+      "name": "www.evonetbd.com",
+      "url": "http://www.evonetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100095,
+      "name": "dreamnetbd.com",
+      "url": "https://dreamnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100096,
+      "name": "bddreamnet.blogspot.com",
+      "url": "http://bddreamnet.blogspot.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100097,
+      "name": "www.bdlan.net",
+      "url": "http://www.bdlan.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100098,
+      "name": "103.102.27.170",
+      "url": "http://103.102.27.170",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100099,
+      "name": "www.cinebioscope.com",
+      "url": "http://www.cinebioscope.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100100,
+      "name": "midiplex.net",
+      "url": "http://midiplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100101,
+      "name": "cdn.midiplex.net",
+      "url": "http://cdn.midiplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100102,
+      "name": "103.195.1.50",
+      "url": "http://103.195.1.50",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100103,
+      "name": "www.tajpata.com",
+      "url": "http://www.tajpata.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100104,
+      "name": "file.tajpata.com",
+      "url": "http://file.tajpata.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100105,
+      "name": "bitflixbd.com",
+      "url": "http://bitflixbd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100106,
+      "name": "khulnaflix.net",
+      "url": "http://khulnaflix.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100107,
+      "name": "file.khulnaflix.net",
+      "url": "http://file.khulnaflix.net",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100108,
+      "name": "www.swiftnetbd.com",
+      "url": "http://www.swiftnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100109,
+      "name": "103.85.235.254",
+      "url": "http://103.85.235.254",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100110,
+      "name": "www.anosbd.com",
+      "url": "https://www.anosbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100111,
+      "name": "www.anosbd.com / ftp",
+      "url": "https://www.anosbd.com/ftp",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100112,
+      "name": "www.bdspeed.com",
+      "url": "http://www.bdspeed.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100113,
+      "name": "moviescounterhd.club",
+      "url": "https://moviescounterhd.club",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100114,
+      "name": "www.netmatrixbd.com",
+      "url": "http://www.netmatrixbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100115,
+      "name": "www.bolmovies.com",
+      "url": "http://www.bolmovies.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100116,
+      "name": "videoelephantbd.com",
+      "url": "http://videoelephantbd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100117,
+      "name": "uturnbd.live",
+      "url": "http://uturnbd.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100118,
+      "name": "172.16.16.3",
+      "url": "http://172.16.16.3",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100119,
+      "name": "172.16.16.5",
+      "url": "http://172.16.16.5",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100120,
+      "name": "172.16.16.6",
+      "url": "http://172.16.16.6",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100121,
+      "name": "www.rainbownetworkbd.com",
+      "url": "https://www.rainbownetworkbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100122,
+      "name": "cinemacity.live",
+      "url": "http://cinemacity.live",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100123,
+      "name": "deshonlinebd.com",
+      "url": "http://deshonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100124,
+      "name": "asiannetworkbd.net",
+      "url": "https://asiannetworkbd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100125,
+      "name": "ftp.com.bd",
+      "url": "http://ftp.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100126,
+      "name": "www.yellownetbd.com",
+      "url": "https://www.yellownetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100127,
+      "name": "www.yellownetbd.com / ftp",
+      "url": "https://www.yellownetbd.com/ftp",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100128,
+      "name": "www.furiousnet.net",
+      "url": "http://www.furiousnet.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100129,
+      "name": "media.furiousnet.net",
+      "url": "http://media.furiousnet.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100130,
+      "name": "www.tetrasoftbd.com",
+      "url": "https://www.tetrasoftbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100131,
+      "name": "tetraplex.net.bd",
+      "url": "http://tetraplex.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100132,
+      "name": "www.sknetcity.com",
+      "url": "https://www.sknetcity.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100133,
+      "name": "fastplex.net",
+      "url": "https://fastplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100134,
+      "name": "www.iflix.com",
+      "url": "https://www.iflix.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100135,
+      "name": "leadtechnologybd.com",
+      "url": "http://leadtechnologybd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100136,
+      "name": "quickonlineftp.com",
+      "url": "http://quickonlineftp.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100137,
+      "name": "slnisp.com.bd",
+      "url": "https://slnisp.com.bd",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100138,
+      "name": "www.skynetbd.net",
+      "url": "https://www.skynetbd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100139,
+      "name": "sbnetworkbd.com",
+      "url": "http://sbnetworkbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100140,
+      "name": "www.powernetbd.com",
+      "url": "https://www.powernetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100141,
+      "name": "easyitbd.com",
+      "url": "https://easyitbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100142,
+      "name": "103.112.63.21",
+      "url": "http://103.112.63.21",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100143,
+      "name": "103.70.140.14",
+      "url": "http://103.70.140.14",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100144,
+      "name": "sparklinkbd.com",
+      "url": "https://sparklinkbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100145,
+      "name": "www.fnetctg.com / index.php",
+      "url": "http://www.fnetctg.com/index.php/bdix-list",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100146,
+      "name": "flashnetbd.com",
+      "url": "http://flashnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100147,
+      "name": "sparknetbd.com",
+      "url": "https://sparknetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100148,
+      "name": "www.focusonlinectg.com",
+      "url": "http://www.focusonlinectg.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100149,
+      "name": "www.fnfonlinebd.com",
+      "url": "http://www.fnfonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100150,
+      "name": "103.82.8.194",
+      "url": "http://103.82.8.194",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100151,
+      "name": "movies.fnfonlinebd.com",
+      "url": "http://movies.fnfonlinebd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100152,
+      "name": "www.winneritbd.com",
+      "url": "http://www.winneritbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100153,
+      "name": "ssonlinebd.com",
+      "url": "https://ssonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100154,
+      "name": "alifanet.com",
+      "url": "https://alifanet.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100155,
+      "name": "serverbd247.com",
+      "url": "http://serverbd247.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100156,
+      "name": "globalcommunicationbd.com",
+      "url": "http://globalcommunicationbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100157,
+      "name": "msmonlinebd.com",
+      "url": "https://msmonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100158,
+      "name": "www.dhakadownload.com",
+      "url": "http://www.dhakadownload.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100159,
+      "name": "dhakaiptv.com",
+      "url": "http://dhakaiptv.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100160,
+      "name": "btekbd.com",
+      "url": "https://btekbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100161,
+      "name": "netcomisp.net",
+      "url": "https://netcomisp.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100162,
+      "name": "www.flashnetbd.com",
+      "url": "http://www.flashnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100163,
+      "name": "203.83.177.225",
+      "url": "http://203.83.177.225",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100164,
+      "name": "imonlineisp.net",
+      "url": "http://imonlineisp.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100165,
+      "name": "www.arafnetbd.com",
+      "url": "http://www.arafnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100166,
+      "name": "www.univisionbd.net",
+      "url": "http://www.univisionbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100167,
+      "name": "www.skybizbd.net",
+      "url": "https://www.skybizbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100168,
+      "name": "www.applenetbd.com",
+      "url": "https://www.applenetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100169,
+      "name": "supernetbd.com",
+      "url": "https://supernetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100170,
+      "name": "supernetsenbag.com",
+      "url": "http://supernetsenbag.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100171,
+      "name": "www.movieserver.net",
+      "url": "http://www.movieserver.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100172,
+      "name": "skynetonlinebd.net",
+      "url": "https://skynetonlinebd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100173,
+      "name": "www.roarzone.info",
+      "url": "http://www.roarzone.info",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100174,
+      "name": "roarmediazone.com",
+      "url": "http://roarmediazone.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100175,
+      "name": "rapidnetbd.com",
+      "url": "https://rapidnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100176,
+      "name": "rapidnetbd.com / FTP.html",
+      "url": "https://rapidnetbd.com/FTP.html",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100177,
+      "name": "mlwbd.pw",
+      "url": "https://mlwbd.pw",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100178,
+      "name": "bonsaihd.live",
+      "url": "https://bonsaihd.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100179,
+      "name": "basnetbd.com",
+      "url": "https://basnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100180,
+      "name": "movie.basnetbd.com",
+      "url": "http://movie.basnetbd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100181,
+      "name": "103.126.12.226 / allmovies.php",
+      "url": "http://103.126.12.226/allmovies.php?page=1&entries=64&sort=DESC&w=grid",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100182,
+      "name": "162.12.215.254",
+      "url": "http://162.12.215.254",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100183,
+      "name": "gpisp.net",
+      "url": "http://gpisp.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100184,
+      "name": "www.onnosomoy.com:8096 / web",
+      "url": "http://www.onnosomoy.com:8096/web/index.html#!/startup/login.html?serverId=89ea8d6de5814c3b93294ebba34da8bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100185,
+      "name": "mtbsl.com",
+      "url": "http://mtbsl.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100186,
+      "name": "bdix.mtbsl.com / server.php",
+      "url": "http://bdix.mtbsl.com/server.php",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100187,
+      "name": "exploreonlinebd.net",
+      "url": "http://exploreonlinebd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100188,
+      "name": "103.222.20.150",
+      "url": "http://103.222.20.150",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100189,
+      "name": "103.85.160.7",
+      "url": "http://103.85.160.7",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100190,
+      "name": "netcode.live / netcodemedia",
+      "url": "http://netcode.live/netcodemedia",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100191,
+      "name": "202.94.164.102",
+      "url": "http://202.94.164.102",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100192,
+      "name": "unique24.net",
+      "url": "http://unique24.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100193,
+      "name": "media.unique24.net",
+      "url": "http://media.unique24.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100194,
+      "name": "rioctg.blogspot.com",
+      "url": "https://rioctg.blogspot.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100195,
+      "name": "3netbd.com",
+      "url": "http://3netbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100196,
+      "name": "epnetbd.com",
+      "url": "https://epnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100197,
+      "name": "focusflix.com / ftp",
+      "url": "http://focusflix.com/ftp",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100198,
+      "name": "103.214.200.94",
+      "url": "http://103.214.200.94",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100199,
+      "name": "data.kenecolor.com",
+      "url": "http://data.kenecolor.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100200,
+      "name": "spidercommunicationbd.com",
+      "url": "http://spidercommunicationbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100201,
+      "name": "bdix.hitechisp.com",
+      "url": "http://bdix.hitechisp.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100202,
+      "name": "www.cybernetbd.com",
+      "url": "https://www.cybernetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100203,
+      "name": "www.tnetftp.com",
+      "url": "http://www.tnetftp.com",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100204,
+      "name": "greetingsonlinebd.com",
+      "url": "http://greetingsonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100205,
+      "name": "103.133.175.242 / 80",
+      "url": "http://103.133.175.242/80",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100206,
+      "name": "mybdix.com",
+      "url": "http://mybdix.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100207,
+      "name": "ddnbd.com",
+      "url": "https://ddnbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100208,
+      "name": "www.plus.net.bd",
+      "url": "http://www.plus.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100209,
+      "name": "inoxbd.com",
+      "url": "http://inoxbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100210,
+      "name": "mars.bolbd.net",
+      "url": "http://mars.bolbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100211,
+      "name": "activembd.com",
+      "url": "https://activembd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100212,
+      "name": "activembd.com / internet",
+      "url": "https://activembd.com/internet/ftp-server",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100213,
+      "name": "srnetworks.webs.com",
+      "url": "https://srnetworks.webs.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100214,
+      "name": "srnetworks.webs.com / ftp-live-tv",
+      "url": "https://srnetworks.webs.com/ftp-live-tv",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100215,
+      "name": "mahirbd.com",
+      "url": "https://mahirbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100216,
+      "name": "mahirbd.com / media.php",
+      "url": "https://mahirbd.com/media.php",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100217,
+      "name": "103.29.127.14",
+      "url": "http://103.29.127.14",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100218,
+      "name": "media.zerointernet.net",
+      "url": "http://media.zerointernet.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100219,
+      "name": "103.96.36.115",
+      "url": "http://103.96.36.115",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100220,
+      "name": "www.freedomonlinebd.com",
+      "url": "http://www.freedomonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100221,
+      "name": "realstation.live",
+      "url": "https://realstation.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100222,
+      "name": "digitalbroadband.com.bd",
+      "url": "https://digitalbroadband.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100223,
+      "name": "www.agcommunication.net",
+      "url": "http://www.agcommunication.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100224,
+      "name": "f4internetsolution.com",
+      "url": "https://f4internetsolution.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100225,
+      "name": "172.2.2.2:80",
+      "url": "http://172.2.2.2:80",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100226,
+      "name": "f4cineplex.myftp.org",
+      "url": "http://f4cineplex.myftp.org",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100227,
+      "name": "speednetkhulna.com",
+      "url": "https://speednetkhulna.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100228,
+      "name": "speed4you.net",
+      "url": "http://speed4you.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100229,
+      "name": "ismart.net.bd",
+      "url": "https://ismart.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100230,
+      "name": "www.candybd.net",
+      "url": "http://www.candybd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100231,
+      "name": "cnetworkbd.net",
+      "url": "https://cnetworkbd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100232,
+      "name": "www.linkinnet.net",
+      "url": "http://www.linkinnet.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100233,
+      "name": "internetzonebd.com",
+      "url": "https://internetzonebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100234,
+      "name": "ibdplex.net",
+      "url": "https://ibdplex.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100235,
+      "name": "yesnetcommunication.com",
+      "url": "https://yesnetcommunication.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100236,
+      "name": "mytlinkbd.net",
+      "url": "https://mytlinkbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100237,
+      "name": "www.mycybernest.com",
+      "url": "http://www.mycybernest.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100238,
+      "name": "103.91.53.248",
+      "url": "https://103.91.53.248",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100239,
+      "name": "www.bograonlinebd.com",
+      "url": "http://www.bograonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100240,
+      "name": "www.beeflix.biz",
+      "url": "http://www.beeflix.biz",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100241,
+      "name": "sites.google.com / view",
+      "url": "https://sites.google.com/view/amberitservers",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100242,
+      "name": "rlcafenet.com",
+      "url": "https://rlcafenet.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100243,
+      "name": "www.netinfobd.com",
+      "url": "https://www.netinfobd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100244,
+      "name": "osthir.net",
+      "url": "http://osthir.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100245,
+      "name": "www.a1cyberlinkbd.com",
+      "url": "http://www.a1cyberlinkbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100246,
+      "name": "www.mariumnetwork.com",
+      "url": "http://www.mariumnetwork.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100247,
+      "name": "103.115.82.254",
+      "url": "http://103.115.82.254",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100248,
+      "name": "medialink24.net",
+      "url": "http://medialink24.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100249,
+      "name": "timenai.com",
+      "url": "http://timenai.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100250,
+      "name": "www.bmnetworkbd.tk",
+      "url": "https://www.bmnetworkbd.tk",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100251,
+      "name": "www.smartnetltd.com",
+      "url": "http://www.smartnetltd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100252,
+      "name": "movie.smartnetltd.com",
+      "url": "http://movie.smartnetltd.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100253,
+      "name": "arishabd.net",
+      "url": "http://arishabd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100254,
+      "name": "abibd.com",
+      "url": "https://abibd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100255,
+      "name": "www.lizaonlinebd.com",
+      "url": "https://www.lizaonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100256,
+      "name": "10.10.10.10",
+      "url": "http://10.10.10.10",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100257,
+      "name": "rsnetbd.com",
+      "url": "https://rsnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100258,
+      "name": "cueclub.com.bd",
+      "url": "https://cueclub.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100259,
+      "name": "www.worldbd.net",
+      "url": "https://www.worldbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100260,
+      "name": "portal.worldbd.net",
+      "url": "http://portal.worldbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100261,
+      "name": "172.102.0.3",
+      "url": "http://172.102.0.3",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100262,
+      "name": "103.251.247.147",
+      "url": "http://103.251.247.147",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100263,
+      "name": "speedo.net.bd",
+      "url": "https://speedo.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100264,
+      "name": "iboxbd.club",
+      "url": "https://iboxbd.club",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100265,
+      "name": "103.135.208.2",
+      "url": "http://103.135.208.2",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100266,
+      "name": "iboxbd.online",
+      "url": "http://iboxbd.online",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100267,
+      "name": "172.20.0.19",
+      "url": "http://172.20.0.19",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100268,
+      "name": "172.20.0.20",
+      "url": "http://172.20.0.20",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100269,
+      "name": "diginetbd.net",
+      "url": "http://diginetbd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100270,
+      "name": "mcplexbangla.com",
+      "url": "http://mcplexbangla.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100271,
+      "name": "ctgoz.com",
+      "url": "http://ctgoz.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100272,
+      "name": "172.30.2.14",
+      "url": "http://172.30.2.14",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100273,
+      "name": "www.adharalo.com",
+      "url": "http://www.adharalo.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100274,
+      "name": "ghatailonline.net",
+      "url": "http://ghatailonline.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100275,
+      "name": "snsbd.net",
+      "url": "https://snsbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100276,
+      "name": "bondhuitbd.com",
+      "url": "https://bondhuitbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100277,
+      "name": "smiledotnet.xyz",
+      "url": "http://smiledotnet.xyz",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100278,
+      "name": "www.gnetworkbd.com",
+      "url": "https://www.gnetworkbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100279,
+      "name": "www.rdconlinebd.net",
+      "url": "http://www.rdconlinebd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100280,
+      "name": "presslinkbd.net",
+      "url": "https://presslinkbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100281,
+      "name": "webrangers.net",
+      "url": "https://webrangers.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100282,
+      "name": "taltola.net",
+      "url": "https://taltola.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100283,
+      "name": "146.196.48.9",
+      "url": "http://146.196.48.9",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100284,
+      "name": "146.196.48.10",
+      "url": "http://146.196.48.10",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100285,
+      "name": "crazynetbd.com",
+      "url": "https://crazynetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100286,
+      "name": "www.ectlink.com",
+      "url": "http://www.ectlink.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100287,
+      "name": "download.ectlink.com",
+      "url": "http://download.ectlink.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100288,
+      "name": "ifra.network",
+      "url": "https://ifra.network",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100289,
+      "name": "103.110.126.146:8000",
+      "url": "http://103.110.126.146:8000",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100290,
+      "name": "todayvisionbd.com",
+      "url": "http://todayvisionbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100291,
+      "name": "www.smiritycable.com",
+      "url": "https://www.smiritycable.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100292,
+      "name": "sardernet.com",
+      "url": "https://sardernet.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100293,
+      "name": "smartonlinebd.com",
+      "url": "http://smartonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100294,
+      "name": "ctgoz.com",
+      "url": "https://ctgoz.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100295,
+      "name": "www.avabdnet.com",
+      "url": "http://www.avabdnet.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100296,
+      "name": "fs1.mebd.net",
+      "url": "http://fs1.mebd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100297,
+      "name": "jhakkas.live",
+      "url": "http://jhakkas.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100298,
+      "name": "bmitbd.com",
+      "url": "http://bmitbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100299,
+      "name": "www.friendsonlinebd.com",
+      "url": "http://www.friendsonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100300,
+      "name": "www.bhuiyan-online.com",
+      "url": "http://www.bhuiyan-online.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100301,
+      "name": "rahulenterprise.net",
+      "url": "http://rahulenterprise.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100302,
+      "name": "fastnetbd.org",
+      "url": "https://fastnetbd.org",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100303,
+      "name": "192.168.100.5 / fastnet",
+      "url": "http://192.168.100.5/fastnet",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100304,
+      "name": "cloudone.com.bd",
+      "url": "http://cloudone.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100305,
+      "name": "www.c1movies.com",
+      "url": "http://www.c1movies.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100306,
+      "name": "bdmovies.net",
+      "url": "http://bdmovies.net",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100307,
+      "name": "zoomonline.com.bd",
+      "url": "http://zoomonline.com.bd",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100308,
+      "name": "mirpurnetbd.com",
+      "url": "http://mirpurnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100309,
+      "name": "the-potato.net",
+      "url": "https://the-potato.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100310,
+      "name": "www.uniqueonlinebd.com",
+      "url": "http://www.uniqueonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100311,
+      "name": "www.jannatmirinternetservice.com",
+      "url": "http://www.jannatmirinternetservice.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100312,
+      "name": "www.bd7hub.net",
+      "url": "https://www.bd7hub.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100313,
+      "name": "www.gnetinternet.com",
+      "url": "https://www.gnetinternet.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100314,
+      "name": "ftp1.bdix.com.bd",
+      "url": "https://ftp1.bdix.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100315,
+      "name": "ftp2.bdix.com.bd",
+      "url": "https://ftp2.bdix.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100316,
+      "name": "ftp3.bdix.com.bd",
+      "url": "https://ftp3.bdix.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100317,
+      "name": "ftp4.bdix.com.bd",
+      "url": "https://ftp4.bdix.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100318,
+      "name": "ftp5.bdix.com.bd",
+      "url": "https://ftp5.bdix.com.bd",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100319,
+      "name": "media.bdix.com.bd",
+      "url": "https://media.bdix.com.bd",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100320,
+      "name": "movie.bdix.com.bd",
+      "url": "https://movie.bdix.com.bd",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100321,
+      "name": "bdix.com.bd / mainweb",
+      "url": "https://bdix.com.bd/mainweb/list.html",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100322,
+      "name": "kbnonlinebd.net",
+      "url": "https://kbnonlinebd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100323,
+      "name": "filmguro.site",
+      "url": "http://filmguro.site",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100324,
+      "name": "citynetbd.com",
+      "url": "http://citynetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100325,
+      "name": "www.citynet.live",
+      "url": "https://www.citynet.live",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100326,
+      "name": "itnetzone.com",
+      "url": "https://itnetzone.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100327,
+      "name": "www.runwaybroadband.com / media-server",
+      "url": "https://www.runwaybroadband.com/media-server",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100328,
+      "name": "www.flynetbd.com",
+      "url": "https://www.flynetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100329,
+      "name": "applelinkbd.net",
+      "url": "https://applelinkbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100330,
+      "name": "quetelbd.net",
+      "url": "https://quetelbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100331,
+      "name": "www.as-bd.net",
+      "url": "http://www.as-bd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100332,
+      "name": "www.fastcyber.net",
+      "url": "https://www.fastcyber.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100333,
+      "name": "www.vibebd.com",
+      "url": "https://www.vibebd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100334,
+      "name": "www.mixonbd.com",
+      "url": "http://www.mixonbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100335,
+      "name": "ditbd.net",
+      "url": "https://ditbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100336,
+      "name": "172.27.100.3",
+      "url": "http://172.27.100.3",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100337,
+      "name": "www.hkonline.com.bd",
+      "url": "https://www.hkonline.com.bd",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100338,
+      "name": "www.chillbd.net",
+      "url": "http://www.chillbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100339,
+      "name": "www.intrepidbd.com",
+      "url": "http://www.intrepidbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100340,
+      "name": "192.168.100.16",
+      "url": "http://192.168.100.16",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100341,
+      "name": "192.168.100.16:8096",
+      "url": "http://192.168.100.16:8096",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100342,
+      "name": "www.businesszone.com.bd",
+      "url": "https://www.businesszone.com.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100343,
+      "name": "www.zipnetbd.com",
+      "url": "http://www.zipnetbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100344,
+      "name": "www.novusnetworkbd.com",
+      "url": "https://www.novusnetworkbd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100345,
+      "name": "www.megaplexbd.com",
+      "url": "http://www.megaplexbd.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100346,
+      "name": "touchonline.net.bd",
+      "url": "https://touchonline.net.bd",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100347,
+      "name": "zoomonlinebd.net",
+      "url": "https://zoomonlinebd.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100348,
+      "name": "addanetwork.net",
+      "url": "https://addanetwork.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100349,
+      "name": "karsannet.com",
+      "url": "http://karsannet.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100350,
+      "name": "103.219.232.190",
+      "url": "http://103.219.232.190",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100351,
+      "name": "www.ctgtel.net",
+      "url": "http://www.ctgtel.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100352,
+      "name": "www.enjoy.net.bd",
+      "url": "http://www.enjoy.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100353,
+      "name": "jonycable.com",
+      "url": "https://jonycable.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100354,
+      "name": "www.dreamonlinebd.com",
+      "url": "https://www.dreamonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100355,
+      "name": "megaflix.tv",
+      "url": "http://megaflix.tv",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100356,
+      "name": "www.alibabanetwork.net",
+      "url": "https://www.alibabanetwork.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100357,
+      "name": "www.yournetcommunications.net",
+      "url": "http://www.yournetcommunications.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100358,
+      "name": "swapnonetwork.net",
+      "url": "http://swapnonetwork.net",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100359,
+      "name": "neefit.net",
+      "url": "http://neefit.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100360,
+      "name": "ibds.net.bd",
+      "url": "https://ibds.net.bd",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100361,
+      "name": "chayachobi.net",
+      "url": "http://chayachobi.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100362,
+      "name": "172.16.16.16",
+      "url": "http://172.16.16.16",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100363,
+      "name": "onsbd.net",
+      "url": "https://onsbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100364,
+      "name": "www.netonlinebd.com",
+      "url": "http://www.netonlinebd.com",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100365,
+      "name": "kmnbd.net",
+      "url": "https://kmnbd.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100366,
+      "name": "kawsarit.com",
+      "url": "http://kawsarit.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100367,
+      "name": "movies.kloud.com.bd",
+      "url": "http://movies.kloud.com.bd",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100368,
+      "name": "10.100.100.2",
+      "url": "http://10.100.100.2",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100369,
+      "name": "kaat.pw",
+      "url": "http://kaat.pw",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100370,
+      "name": "lalbatte.net",
+      "url": "http://lalbatte.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100371,
+      "name": "www.flixjar.com",
+      "url": "https://www.flixjar.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100372,
+      "name": "bdflixlive.com",
+      "url": "https://bdflixlive.com",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100373,
+      "name": "tokis.xyz",
+      "url": "http://tokis.xyz",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100374,
+      "name": "salamonline.com.bd",
+      "url": "https://salamonline.com.bd",
+      "category": "ISP / Network",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100375,
+      "name": "www.dolyitcorner.net",
+      "url": "https://www.dolyitcorner.net",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100376,
+      "name": "akkadukka.com",
+      "url": "http://akkadukka.com",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100377,
+      "name": "103.203.94.1:8065",
+      "url": "http://103.203.94.1:8065",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100378,
+      "name": "103.86.200.7",
+      "url": "http://103.86.200.7",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100379,
+      "name": "103.85.197.10",
+      "url": "http://103.85.197.10",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100380,
+      "name": "103.56.6.6 / Data",
+      "url": "http://103.56.6.6/Data",
+      "category": "FTP / File",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100381,
+      "name": "10.1.1.1",
+      "url": "http://10.1.1.1",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100382,
+      "name": "172.22.22.100",
+      "url": "http://172.22.22.100",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100383,
+      "name": "10.10.10.10:8080",
+      "url": "http://10.10.10.10:8080",
+      "category": "BDIX Server",
+      "location": "Local / ISP",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100384,
+      "name": "160.202.146.220",
+      "url": "http://160.202.146.220",
+      "category": "BDIX Server",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    },
+    {
+      "id": 100385,
+      "name": "genvideos.org",
+      "url": "https://genvideos.org",
+      "category": "Media",
+      "location": "Bangladesh",
+      "isp": "",
+      "tags": [
+        "BDIX",
+        "Bangladesh"
+      ],
+      "active": 1
+    }
+  ]
+}

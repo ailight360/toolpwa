@@ -1,0 +1,434 @@
+{
+  "percentage-calculator": [
+    "calculators",
+    "math-calculator"
+  ],
+  "fraction-calculator": [
+    "calculators",
+    "math-calculator"
+  ],
+  "ratio-calculator": [
+    "calculators",
+    "math-calculator"
+  ],
+  "average-calculator": [
+    "calculators",
+    "math-calculator"
+  ],
+  "discount-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "tip-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "loan-payment-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "simple-interest-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "compound-interest-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "sales-tax-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "emi-calculator": [
+    "calculators",
+    "financial-calculator"
+  ],
+  "bmi-calculator": [
+    "calculators",
+    "health-calculator"
+  ],
+  "age-calculator": [
+    "calculators",
+    "date-calculator"
+  ],
+  "date-difference-calculator": [
+    "calculators",
+    "date-calculator"
+  ],
+  "word-counter": [
+    "text-tools",
+    "text-editor"
+  ],
+  "character-counter": [
+    "text-tools",
+    "text-editor"
+  ],
+  "case-converter": [
+    "text-tools",
+    "text-editor"
+  ],
+  "text-cleaner": [
+    "text-tools",
+    "text-editor"
+  ],
+  "line-counter": [
+    "text-tools",
+    "text-editor"
+  ],
+  "text-reverser": [
+    "text-tools",
+    "text-editor"
+  ],
+  "duplicate-line-remover": [
+    "text-tools",
+    "text-editor"
+  ],
+  "sort-lines": [
+    "text-tools",
+    "text-editor"
+  ],
+  "find-and-replace": [
+    "text-tools",
+    "text-editor"
+  ],
+  "whitespace-remover": [
+    "text-tools",
+    "text-editor"
+  ],
+  "remove-line-breaks": [
+    "text-tools",
+    "text-editor"
+  ],
+  "word-frequency-counter": [
+    "text-tools",
+    "text-editor"
+  ],
+  "slug-generator": [
+    "text-tools",
+    "text-converter"
+  ],
+  "markdown-to-html": [
+    "text-tools",
+    "text-converter"
+  ],
+  "morse-code-converter": [
+    "text-tools",
+    "text-converter"
+  ],
+  "text-binary-converter": [
+    "text-tools",
+    "text-converter"
+  ],
+  "lorem-ipsum-generator": [
+    "text-tools",
+    "text-generator"
+  ],
+  "email-validator": [
+    "text-tools",
+    "text-validator"
+  ],
+  "image-resizer": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-cropper": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-rotator": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-flipper": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-grayscale": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-watermark": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-compressor": [
+    "image-tools",
+    "image-editor"
+  ],
+  "image-format-converter": [
+    "image-tools",
+    "image-converter"
+  ],
+  "image-to-base64": [
+    "image-tools",
+    "image-converter"
+  ],
+  "image-data-url": [
+    "image-tools",
+    "image-converter"
+  ],
+  "image-dimensions": [
+    "image-tools",
+    "image-inspector"
+  ],
+  "image-color-picker": [
+    "image-tools",
+    "image-inspector"
+  ],
+  "favicon-generator": [
+    "image-tools",
+    "favicon-maker"
+  ],
+  "json-formatter": [
+    "developer-tools",
+    "json-toolkit"
+  ],
+  "json-to-csv": [
+    "developer-tools",
+    "json-toolkit"
+  ],
+  "json-to-typescript": [
+    "developer-tools",
+    "json-toolkit"
+  ],
+  "csv-to-json": [
+    "developer-tools",
+    "json-toolkit"
+  ],
+  "url-encoder": [
+    "developer-tools",
+    "encoding-toolkit"
+  ],
+  "base64": [
+    "developer-tools",
+    "encoding-toolkit"
+  ],
+  "html-encoder": [
+    "developer-tools",
+    "encoding-toolkit"
+  ],
+  "html-formatter": [
+    "developer-tools",
+    "web-code-toolkit"
+  ],
+  "xml-formatter": [
+    "developer-tools",
+    "web-code-toolkit"
+  ],
+  "css-minifier": [
+    "developer-tools",
+    "web-code-toolkit"
+  ],
+  "url-parser": [
+    "developer-tools",
+    "url-toolkit"
+  ],
+  "query-string-parser": [
+    "developer-tools",
+    "url-toolkit"
+  ],
+  "regex-tester": [
+    "developer-tools",
+    "developer-testing"
+  ],
+  "text-diff": [
+    "developer-tools",
+    "developer-testing"
+  ],
+  "color-contrast-checker": [
+    "developer-tools",
+    "developer-testing"
+  ],
+  "color-converter": [
+    "developer-tools",
+    "color-toolkit"
+  ],
+  "gradient-generator": [
+    "developer-tools",
+    "color-toolkit"
+  ],
+  "meta-tag-generator": [
+    "developer-tools",
+    "web-seo-toolkit"
+  ],
+  "robots-txt-generator": [
+    "developer-tools",
+    "web-seo-toolkit"
+  ],
+  "timestamp-converter": [
+    "developer-tools",
+    "developer-utility"
+  ],
+  "number-base-converter": [
+    "developer-tools",
+    "developer-utility"
+  ],
+  "jwt-decoder": [
+    "developer-tools",
+    "developer-utility"
+  ],
+  "length-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "temperature-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "data-size-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "time-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "weight-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "area-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "speed-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "pressure-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "volume-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "energy-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "frequency-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "angle-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "password-generator": [
+    "security-tools",
+    "password-toolkit"
+  ],
+  "password-strength": [
+    "security-tools",
+    "password-toolkit"
+  ],
+  "password-entropy-checker": [
+    "security-tools",
+    "password-toolkit"
+  ],
+  "random-string-generator": [
+    "security-tools",
+    "password-toolkit"
+  ],
+  "sha256-generator": [
+    "security-tools",
+    "crypto-toolkit"
+  ],
+  "sha512-generator": [
+    "security-tools",
+    "crypto-toolkit"
+  ],
+  "uuid-secure-generator": [
+    "security-tools",
+    "crypto-toolkit"
+  ],
+  "hex-generator": [
+    "security-tools",
+    "crypto-toolkit"
+  ],
+  "random-number-generator": [
+    "security-tools",
+    "random-toolkit"
+  ],
+  "mfs-cashout-calculator": [
+    "bd-tools",
+    "bd-money-toolkit"
+  ],
+  "taka-amount-to-words": [
+    "bd-tools",
+    "bd-money-toolkit"
+  ],
+  "bd-vat-calculator": [
+    "bd-tools",
+    "bd-money-toolkit"
+  ],
+  "nid-format-checker": [
+    "bd-tools",
+    "bd-identity-toolkit"
+  ],
+  "bd-mobile-number-checker": [
+    "bd-tools",
+    "bd-identity-toolkit"
+  ],
+  "tin-bin-format-checker": [
+    "bd-tools",
+    "bd-identity-toolkit"
+  ],
+  "bangla-number-converter": [
+    "bd-tools",
+    "bangla-number-tool"
+  ],
+  "stopwatch": [
+    "browser-utilities",
+    "time-utilities"
+  ],
+  "countdown-timer": [
+    "browser-utilities",
+    "time-utilities"
+  ],
+  "timezone-converter": [
+    "browser-utilities",
+    "time-utilities"
+  ],
+  "text-to-speech": [
+    "browser-utilities",
+    "voice-utilities"
+  ],
+  "speech-to-text": [
+    "browser-utilities",
+    "voice-utilities"
+  ],
+  "calculator-suite": [
+    "calculators",
+    "math-calculator"
+  ],
+  "text-toolkit": [
+    "text-tools",
+    "text-editor"
+  ],
+  "image-toolkit": [
+    "image-tools",
+    "image-editor"
+  ],
+  "developer-toolkit": [
+    "developer-tools",
+    "json-toolkit"
+  ],
+  "unit-converter": [
+    "converters",
+    "unit-converter"
+  ],
+  "security-toolkit": [
+    "security-tools",
+    "password-toolkit"
+  ],
+  "bangladesh-toolkit": [
+    "bd-tools",
+    "bd-money-toolkit"
+  ],
+  "browser-utility-suite": [
+    "browser-utilities",
+    "time-utilities"
+  ]
+}
